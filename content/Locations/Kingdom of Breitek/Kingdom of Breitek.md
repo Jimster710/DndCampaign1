@@ -1,9 +1,11 @@
+
 ---
-Title: 
+Title: Kingdom of Breitek
 Draft: false
 Tags:
   - 
 ---
+
 
 The Kingdom of Breitek is a [[Humans|human]] Kingdom encompassing the eastern end of [[The Continent]]. 
 
