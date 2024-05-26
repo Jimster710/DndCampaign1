@@ -12,5 +12,5 @@ tags:
 
 
 
-![[loch_kyrgall.png|400]]
-![[bay_of_larglyne.png|400]]
+![[loch_kyrgall.png|700]]
+![[bay_of_larglyne.png|700]]
