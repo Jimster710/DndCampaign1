@@ -1,6 +1,0 @@
----
-Title: 
-Draft: false
-Tags:
-  - 
----
