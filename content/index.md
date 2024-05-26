@@ -2,7 +2,7 @@
 title: Homepage
 tags:
 ---
-#### Hello! Welcome to the Dungeons and Dragons Campaign set in the [[Kingdom of Breitek]].
+## Hello! Welcome to the Dungeons and Dragons Campaign set in the [[Kingdom of Breitek]].
 
 #### [[Characters/]]
 #### [[Lore/]]
@@ -11,5 +11,6 @@ tags:
 
 
 
-![[bay_of_larglyne.png|100x100]]
-![[loch_kyrgall.png|100x100]]
+
+![[loch_kyrgall.png|400]]
+![[bay_of_larglyne.png|400]]
