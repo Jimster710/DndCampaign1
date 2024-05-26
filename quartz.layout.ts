@@ -27,7 +27,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.FolderContent(),
   ],
 }
 
@@ -39,6 +38,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.FolderContent(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
