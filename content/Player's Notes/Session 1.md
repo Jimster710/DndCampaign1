@@ -1,6 +1,6 @@
 ---
-Title: 
+Title: Session 1
 Draft: false
-Tags:
-  - 
+tags:
 ---
+Player's Notes
