@@ -6,3 +6,4 @@ Tags:
   - 
 ---
 
+RotThorn is a dangerous and powerful bandit leader that has taken up permanent residence somewhere near [[Lochfeld]]. Stories have spread to all corners of the kingdom regarding the cruelty of RotThorn, but few have ever seen RotThorn and lived. 

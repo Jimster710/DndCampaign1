@@ -6,3 +6,4 @@ Tags:
   - 
 ---
 
+Radamis is the [[Alderman]] of the village of [[Lochfeld]]. 
