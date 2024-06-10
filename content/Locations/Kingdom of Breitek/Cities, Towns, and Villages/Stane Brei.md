@@ -6,4 +6,4 @@ Tags:
   - 
 ---
 
-[[Stane]] Brei is the
+[[Stane]] Brei is the capital city in the [[Kingdom of Breitek]]. 
