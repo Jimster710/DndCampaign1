@@ -10,4 +10,6 @@ Tags:
 
 Capt. Staro is a ranger of the [[Order of Feathers]]. 
 
-You met Capt. Staro near the blacksmith shop and broken palisade in [[Lochfeld]]. She gave you a wanted poster for [[RotThorn]]. She also pointed out the likely location of the goblin lair. 
+[[Yosim Standengarden]] & [[Myastan Balasar]] met Capt. Staro near the blacksmith shop and broken palisade in [[Lochfeld]]. She gave you a wanted poster for [[RotThorn]]. She also pointed out the likely location of the goblin lair. 
+
+> Balasar learned that she is stronger than she looks. And she looked quite strong from his view from the ground.
