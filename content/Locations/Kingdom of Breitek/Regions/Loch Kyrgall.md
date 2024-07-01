@@ -9,7 +9,7 @@ Tags:
 
 Loch Kyrgall contains the western end of the Kingdom of Breitek. [[Lord Regent of Stane Kyrgall|The Lord Regent]] resides in [[Stane Kyrgall]].
 
-![[content/Images/loch_kyrgall.png|700]]
+![[loch_kyrgall.png|700]]
 
 ```leaflet  
 id: Loch_Kyrgall 
