@@ -9,7 +9,7 @@ Tags:
 
 The Bay of Larglyne is the capital region of the [[Kingdom of Breitek]].
 
-![[DmFiles/General/Maps/bay_of_larglyne.png|700]]
+![[content/Images/bay_of_larglyne.png|700]]
 ```leaflet   
 id: Bay_Larglyne 
 ### Lock pins so they can't be moved  

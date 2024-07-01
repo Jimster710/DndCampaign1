@@ -6,7 +6,7 @@ Tags:
   - 
 ---
 
-You know the approximate location of the [[Druidess Goblin]]'s lair. The treasure map you found on the defeated goblins indicated that there is a magic item there!
+You knew the approximate location of the [[Druidess Goblin]]'s lair, but then you found the exact location! The treasure map you found on the defeated goblins indicated that there is a magic item there.
 
 You found the Druidess Goblin's lair-a place rotting of death. You found magically infused gunpowder in barrels at the transition from cave to dungeon, but were then rudely interrupted by explosive tile traps! After [[Saisu]] used his shield to activate several tiles and clear a path, the party was blocked by an iron door. After a failed flash of powder by [[Zalma Cindershine|Zalma]], the party successfully blasted the door open and gained entrance into the inner dungeon. 
 
