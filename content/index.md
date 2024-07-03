@@ -36,5 +36,5 @@ tags:
 
 It is currently the 19th of Pharast, a Fireday, the year is 611, which is the 12th year of the Age of Lost Omens.
 
-![[loch_kyrgall.png|900]]
+![[bay_of_larglyne.png|900]]
 ![[loch_kyrgall.png|900]]
