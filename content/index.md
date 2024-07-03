@@ -9,7 +9,7 @@ tags:
 #### [[Locations/]]
 #### [[Player's Notes/]]
 
-Magic Items collected thus far-
+###### Magic Items collected thus far-
 - A gray cloth bag secured with a golden twine drawstring. A badger came out of it.
 - A set of Adamantine Chain Mail, which once belonged to Renna the famed Elven warrior.
 - A 4th level spell scroll, which was almost cast when the draconic words were read aloud.
@@ -23,15 +23,15 @@ Magic Items collected thus far-
 4. 10 feet reach, twice
 5. Rope, Twice
 6. Carrying
-9 additional patches:
+
+###### 9 additional patches:
 - Boat, Twice
 - Climbing
 - Parchment
 - Constitution, Thrice (three times)
 - Bark
 - Heavy
-
-
+---
 
 
 It is currently the 19th of Pharast, a Fireday, the year is 611, which is the 12th year of the Age of Lost Omens.
