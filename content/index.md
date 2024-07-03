@@ -17,19 +17,19 @@ Magic Items collected thus far-
 - A glowing rune appeared on Balasar's Morningstar, the draconic word for food.
 - ???
 - A blue mages' robe covered with patches with the following words in *ELVEN* (not draconic as was mistakenly said earlier)
-Dagger
-Beam of Light
-Reflection
-10 feet reach
-Rope
-Carrying
-& 9 additional patches
-Boat, Twice
-Climbing
-Parchment
-Constitution, Thrice (three times)
-Bark
-Heavy
+1. Dagger
+2. Beam of Light
+3. Reflection
+4. 10 feet reach, twice
+5. Rope, Twice
+6. Carrying
+9 additional patches:
+- Boat, Twice
+- Climbing
+- Parchment
+- Constitution, Thrice (three times)
+- Bark
+- Heavy
 
 
 
