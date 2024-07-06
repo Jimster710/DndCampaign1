@@ -6,4 +6,4 @@ Tags:
   - 
 ---
 
-An oafish (idiot, moron) male voice was in your nightmare. Was this nightmare real?
+An oafish (idiot, moron) male voice was in your dream. 
