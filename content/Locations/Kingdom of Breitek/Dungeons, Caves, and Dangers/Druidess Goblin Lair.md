@@ -8,7 +8,8 @@ Tags:
 
 You knew the approximate location of the [[Druidess Goblin]]'s lair, but then you found the exact location! The treasure map you found on the defeated goblins indicated that there is a magic item there.
 
-You found the Druidess Goblin's lair-a place rotting of death. You found magically infused gunpowder in barrels at the transition from cave to dungeon, but were then rudely interrupted by explosive tile traps! After [[Saisu]] used his shield to activate several tiles and clear a path, the party was blocked by an iron door. After a failed flash of powder by [[Zalma Cindershine|Zalma]], the party successfully blasted the door open and gained entrance into the inner dungeon. 
+###### You found the Druidess Goblin's lair-
+-a place rotting of death. You found magically infused gunpowder in barrels at the transition from cave to dungeon, but were then rudely interrupted by explosive tile traps! After [[Saisu]] used his shield to activate several tiles and clear a path, the party was blocked by an iron door. After a failed flash of powder by [[Zalma Cindershine|Zalma]], the party successfully blasted the door open and gained entrance into the inner dungeon. 
 
 > Oh, and there were several forms of light. Pebbles mostly. And nearly all of them were not stinky!
 
@@ -17,4 +18,22 @@ Inside of the inner dungeon, the brave adventurer's found an extraordinarily dru
 There was also a rug that tried to get a little too comfortable with Saisu and Zalma. Fortunately, that rug was reduced to rags. 
 
 The drunken dwarf had two friends come to find him, but they were not smart enough to lay down their weapons. One of them was melted by [[Myastan Balasar|Balasar]]'s poison breath. The other was knocked out by [[Yosim Standengarden|Yosim]]'s staff.  
+
+###### You ventured forth into the lair-
+You found a desecrated statue that was once an honored site to Renna, the elven warrior. 
+The inscription on the statue noted that this is the final resting place of Renna.  [[Yosim Standengarden|Yosim]] remembered that Renna had died in a previous age, and mysteriously returned again hundreds of years later. 
+
+You found hallways with goblin corpses pinned to the walls. You found a room with two wounded goblins, and quickly dispatched them. 
+
+You waltzed into a room where bandits were fighting a group of goblins and another bandit. The [[Druidess Goblin|Druidess]] appeared, attempted to rally the troops, but retreated through a magical pedestal in glowing purple light. The druidess was now undead-apparently your last meeting did a number on her. 
+
+The goblins and bandits were defeated through the combined might of the party. Even the druidess' vulture did not stand a chance!
+
+Oddly enough, one of the bandits that was attempting to leave was found in the rug-room with enough arrows in him to make for a pincushion. 
+
+ [[Myastan Balasar|Balasar]] found a chest with a mysterious cloth bag and a scroll.  [[Yosim Standengarden|Yosim]] faceplanted into a ramp, and then climbed it with the help of [[Nyx]]. [[Myastan Balasar|Balasar]] followed. Several magical items were found, as well as some gold. 
+
+Suddenly, the doorway disappeared and now a dungeon wall is where it once stood! [[Myastan Balasar|Balasar]] and [[Yosim Standengarden|Yosim]] are in the treasure room, with no way out! At least [[Nyx]] is there with them, for moral support. [[Saisu]] and [[Zalma Cindershine|Zalma]] will have to continue on-will they be able to save their companions?
+
+###### The party now magically separated, Zalma and Saisu continued onwards-
 
