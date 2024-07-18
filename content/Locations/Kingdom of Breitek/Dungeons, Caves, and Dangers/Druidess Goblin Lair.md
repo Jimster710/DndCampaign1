@@ -6,7 +6,18 @@ Tags:
   - 
 ---
 
-You knew the approximate location of the [[Druidess Goblin]]'s lair, but then you found the exact location! The treasure map you found on the defeated goblins indicated that there is a magic item there.
+You knew the approximate location of the [[Druidess Goblin]]'s lair, but then you found the exact location! The treasure map you found on the defeated goblins in the fields of [[Lochfeld]] indicated that there is a magic item there. The party ventured to the lair and defeated the goblins, bandits working with the goblins, and some of [[RotThorn|RotThorn's]] Bandits. 
+
+
+Following the events of the Goblin Rave, the control room (featuring book levitation), and the dungeon gap, the party successfully navigated the remaining room of the lair. With [[Rofri (Drunken Dwarf)]] the party was able to avoid combat with [[Capt. Ros]], a "Cleric", and [[The Oaf]]. It seems that the Oaf was sent in to infiltrate the ranks of the bandits and goblins and discover the truth behind the abductions in [[Lochfeld]] and the surrounding lands. The Oaf seems to be an unhelpful spy in that regard, but the party recognizes him from their dreams. 
+
+The "Cleric" in white robes had a crystal ball and purple crystal. They seem to match the ones that Zalma used to levitate across the gap (minus the dagger cracks on Zalma's version of the crystal). The "Cleric" thinks that these are control devices for the dungeon, and somehow they are connected to the purple torches, magically infused gunpowder barrels, and the Druidess' pedestals. 
+
+The party discovered books in the lair that relate to necromancy, elven history, regional history, works of the Dragonborn peoples, and, in particular, works regarding [[Renna the Elven Dragonslayer]] and ten books in elven which seem to contain Artificer knowledge of some sort. 
+
+
+
+Partial recounting of the lair-
 
 ###### You found the Druidess Goblin's lair-
 -a place rotting of death. You found magically infused gunpowder in barrels at the transition from cave to dungeon, but were then rudely interrupted by explosive tile traps! After [[Saisu]] used his shield to activate several tiles and clear a path, the party was blocked by an iron door. After a failed flash of powder by [[Zalma Cindershine|Zalma]], the party successfully blasted the door open and gained entrance into the inner dungeon. 
@@ -35,5 +46,6 @@ Oddly enough, one of the bandits that was attempting to leave was found in the r
 
 Suddenly, the doorway disappeared and now a dungeon wall is where it once stood! [[Myastan Balasar|Balasar]] and [[Yosim Standengarden|Yosim]] are in the treasure room, with no way out! At least [[Nyx]] is there with them, for moral support. [[Saisu]] and [[Zalma Cindershine|Zalma]] will have to continue on-will they be able to save their companions?
 
-###### The party now magically separated, Zalma and Saisu continued onwards-
+---End of Record
+
 
