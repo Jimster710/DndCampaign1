@@ -10,9 +10,9 @@ Tags:
 
 You have a lot of options for what your character can do-so feel free to experiment. This is an excellent way to get more of your favorite parts of D&D even when you're not at the table-so go for what you enjoy.
 
-> D&D characters are primarily adventures, so why would the adventure completely stop during downtime?
+> D&D characters are primarily adventurers, so why would the adventure completely stop during downtime?
 
-I don't think the adventures should stop when we are away from the table! They'll simply take the form of downtime activities and downtime adventures. 
+I don't think the adventures should come to a complete stop when we are away from the table! They'll simply take the form of downtime activities and downtime adventures. All of these downtime activities are taking place at some point **after** the adventure that you are currently on. 
 
 #### **How it works**
 
