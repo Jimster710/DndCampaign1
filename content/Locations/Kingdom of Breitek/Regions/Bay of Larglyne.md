@@ -9,7 +9,7 @@ Tags:
 
 The Bay of Larglyne is the capital region of the [[Kingdom of Breitek]].
 
-![[bay_of_larglyne.png|700]]
+![[Update1BayOfLarglyne.png|700]]
 ```leaflet   
 id: Bay_Larglyne 
 ### Lock pins so they can't be moved  
@@ -18,7 +18,7 @@ lock: true
 recenter: true  
 ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
 noScrollZoom: true  
-image: [[bay_of_larglyne.png]]  
+image: [[Update1BayOfLarglyne.png]]  
 ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
 ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
 ### Note that this formula requires adjustments depending on your map. The idea is to determine the number of units between your bar scale. We divide by 100 here because my bar scale measures in 100 units. If your maps scale bar measures in units of 50 them you should divide by 50 instead. The idea is to calculate how many pixels are equal to 1 unit.  
