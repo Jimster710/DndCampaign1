@@ -9,11 +9,11 @@ Valyra is a Wood [[Elf]] Ranger. She is a member of the [[Order of Feathers]] ra
 
 [[Idril]], Valyra and the other rangers are in the [[Bandit Encampment]] waiting to hear from the party about the location of the [[Druidess Goblin]]. 
 
-![[Elf1.jpeg]]
+![[Elf1.jpeg|500]]
 
-![[Elf2.jpeg]]
+![[Elf2.jpeg|500]]
 
-![[Elf3.jpeg]]
+![[Elf3.jpeg|500]]
 
 ### Primal Companion (Wolf)
 
