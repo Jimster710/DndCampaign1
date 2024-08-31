@@ -12,3 +12,4 @@ Knight Landaver proceeded to sub in his squire Gregly after failing to hit Saisu
 
 He was swiftly defeated and then mocked for his dishonorable conduct. He healed the party and then gifted them a 1d4 healing potion. Gregly was traumatized. Knight Landaver will likely continue to follow his oath (in his own special way) to find and defeat evil, where-ever it may hide, in whatever weather there may be, no matter how many squires may perish!
 
+![[FixedLandaver.jpg|400]]

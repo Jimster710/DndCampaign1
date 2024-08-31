@@ -9,4 +9,6 @@ Zalma Cindershine is a Deep [[Gnome]], otherwise known as a Svirfneblin. She is 
 
 She is accompanied by a peculiar construct of her own design-Nyx. Nyx, with a glowing gemstone and complicated mechanical parts, follows her whistled commands. 
 
+Zalma has found a magical chisel (+1), which Zalma has attuned to.
+
 ![[ZalmaCloseup.png|400]]
