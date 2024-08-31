@@ -13,6 +13,6 @@ An oafish (idiot, moron) male voice was in your dream. You found the man with th
 The Oaf was told telepathically by a pseudodragon that [[Renna the Elven Dragonslayer]] must be saved. The Oaf was present with the Druidess and a hooded figure during the party's shared abduction. 
 
 It seems as though, through [[Myastan Balasar|Balasar's]] confrontation with the [[Druidess Goblin]] in the crystal ball, that the Oaf's death was important to the Druidess. 
-The Oaf survived the battle of [[content/Locations/Kingdom of Breitek/Dungeons, Caves, and Dangers/Muldri's Rest|Muldri's Rest]]. He is particularly fond of Bobbert.  
+The Oaf survived the battle of [[Muldri's Rest]]. He is particularly fond of Bobbert.  
 
 ![[Designer (2).jpeg|400]]

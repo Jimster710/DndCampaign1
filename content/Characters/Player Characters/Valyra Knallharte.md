@@ -9,7 +9,7 @@ Valyra is a Wood [[Elf]] Ranger. She is a member of the [[Order of Feathers]] ra
 
 [[Idril]], Valyra and the other rangers waited just outside the [[Bandit Encampment]] while the party found the location of the [[Druidess Goblin]]. 
 
-Valyra joined the party and assisted in defeating the Druidess at [[content/Locations/Kingdom of Breitek/Dungeons, Caves, and Dangers/Muldri's Rest|Muldri's Rest]].
+Valyra joined the party and assisted in defeating the Druidess at [[Muldri's Rest]].
 
 Valyra has 4 pinches of magic dust and has created 3 pills of magical water.
 
