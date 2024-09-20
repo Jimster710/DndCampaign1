@@ -6,4 +6,4 @@ Tags:
   - 
 ---
 
-You don't know much about this location yet!
+The finest wine in [[The Continent]] comes from Chateau Nienna. There have been, however, rumors of a drop in quality of the recent vintages.

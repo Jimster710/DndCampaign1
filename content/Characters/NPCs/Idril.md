@@ -10,7 +10,7 @@ Idril is a half-elf [[Order of Feathers]] ranger that is under the command of [[
 
 He told them that they should say that the [[Druidess Goblin]] was defeated and work in a code phrase, "[[Chatz Tavern]]", into the message so that Capt. Staro can send assistance and determine if Radamis or the [[Mayor of Lochfeld|Mayor]] is working against the interests of the town. 
 
-Idril has tailed the party to the [[Bandit Encampment]] and has three other feathers' rangers in his troop. He has told the party he will scout ahead once they discover the location of the Druidess Goblin's ritual. 
+Idril has tailed the party to the [[Bandit Encampment]] and has three other feathers' rangers in his troop. He scouted ahead once the party discovered the location of the Druidess Goblin's ritual. He has returned to Lochfeld with the party.
 
 
 ![[Idril.jpeg|500]]

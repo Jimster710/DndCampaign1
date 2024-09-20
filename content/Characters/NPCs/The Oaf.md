@@ -15,4 +15,10 @@ The Oaf was told telepathically by a pseudodragon that [[Renna the Elven Dragons
 It seems as though, through [[Myastan Balasar|Balasar's]] confrontation with the [[Druidess Goblin]] in the crystal ball, that the Oaf's death was important to the Druidess. 
 The Oaf survived the battle of [[Muldri's Rest]]. He is particularly fond of Bobbert.  
 
+The Silent Mage used some of the remaining magical energy from the failed ritual to regenerate The Oaf's mind. Apparently, his real name is **Arvind Krabicka**, and he claims to remember things from long ago, but not so long ago as when [[Renna the Elven Dragonslayer]] was around.
+
+> To be honest, he was easier to deal with when he was just an idiot. 
+																	-The Cleric Hale
+
+
 ![[Designer (2).jpeg|400]]

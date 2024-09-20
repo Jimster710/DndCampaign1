@@ -15,7 +15,9 @@ tags:
 ---
 
 
-It is currently the 22nd of Pharast, a Moonday, the year is 611, which is the 12th year of the Age of Lost Omens. The Lochfeld election is on the 26th of this month of Pharast.
+It is the evening of the 25th of Pharast, an Oathday, the year is 611, which is the 12th year of the Age of Lost Omens. The Lochfeld election is on the 26th of this month of Pharast, which is tomorrow!
 
-![[Update1BayOfLarglyne.png|900]]
+![[Update2BayOfLarglyne.png|900]]
+
+
 ![[loch_kyrgall.png|900]]

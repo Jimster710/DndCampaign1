@@ -6,7 +6,7 @@ Tags:
   - 
 ---
 
-Muldri's Rest is a canyon in the [[Kehrn Mountains]] near the ruins of the ancient elven city of [[Felandryl]]. The bones of the dragon [[Muldri]] were recently excavated during the [[Druidess Goblin|Druidess Goblin's]] failed ritual. 
+Muldri's Rest is a canyon in the [[Kehrn Mountains]] near the ruins of the ancient elven city of [[Felandryl]]. The bones of the dragon [[Muldri]] were recently excavated during the [[Druidess Goblin|Druidess Goblin's]] failed ritual. The [[Red Robes Summoner]] fled from this location. 
 
 
 ![[Designer (6).jpeg|400]]![[Dragon'sRestTry3.jpg|400]]
