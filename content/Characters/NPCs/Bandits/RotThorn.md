@@ -14,3 +14,5 @@ RotThorn left [[Ser Skald]] in charge of the [[Bandit Encampment]]. He left orde
 
 RotThorn apparently ordered [[Stanley]] to dispatch of one of his Lieutenants that failed to defend the Bandit Encampment or defeat the Druidess Goblin.  
 
+[[Yosim Standengarden]] found a strange room in [[Lady Sturmlith's Brothel]] with what is clearly an image of a seafaring man with dark hair. When light hit the painting, the familiar sigil of RotThorn reflected in the painting.  
+

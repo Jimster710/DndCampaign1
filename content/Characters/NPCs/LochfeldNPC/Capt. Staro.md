@@ -14,6 +14,6 @@ Capt. Staro is a ranger of the [[Order of Feathers]].
 
 > Balasar learned that she is stronger than she looks. And she looked quite strong from his view from the ground.
 
-Capt. Staro has agreed to assist the party with their investigation into the Altar Boy. 
+Capt. Staro has agreed to assist the party with their investigation into the Altar Boy. She assisted [[Richter]] and Balasar in defeating a disgusting spider creature in the tunnels beneath Lochfeld.
 
 Balasar and Capt. Staro have a sparring appointment on the 26th of Pharast at 11 in the morning, a couple of hours before the election.

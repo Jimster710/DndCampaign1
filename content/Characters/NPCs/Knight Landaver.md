@@ -14,4 +14,7 @@ He was swiftly defeated and then mocked for his dishonorable conduct. He healed 
 
 The party met Knight Landaver again near [[Muldri's Rest]], where he dropped Gregly into the foggy chasm below. Were it not for the bravery of [[Myastan Balasar]], Gregly would have perished. 
 
+
+A feel-good story about Knight Landaver appeared in an advance copy of *The* *Lochfeld Conjurer*, Lochfeld's newspaper. His ego is on full display in the article. 
+
 ![[FixedLandaver.jpg|400]]
