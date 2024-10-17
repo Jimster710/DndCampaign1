@@ -49,6 +49,8 @@ tags:
 
 It is the morning of the 26th of Pharast, a Fireday, the year is 611, which is the 12th year of the Age of Lost Omens. The Lochfeld election is on the 26th of this month of Pharast, which would be today-if this unnatural night would end. 
 
+![[PumpkinDice.webp|300]]
+
 ![[Update2BayOfLarglyne.png|900]]
 
 
