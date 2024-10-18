@@ -6,6 +6,4 @@ Tags:
   - 
 ---
 
-
-[https://www.dndbeyond.com/races/7-tiefling](Tiefling)
-https://www.dndbeyond.com/races/7-tiefling
+Tieflings are folks that have devilish or fiendish ancestry. They aren't too common in the [[Kingdom of Breitek]]. They often face prejudices and ostracization from Humans, but this is less common in the cities.

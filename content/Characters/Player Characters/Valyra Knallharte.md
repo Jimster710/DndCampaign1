@@ -5,7 +5,7 @@ Draft: false
 Tags:
   - 
 ---
-Valyra is a Wood [[Elf]] Ranger. She is a member of the [[Order of Feathers]] rangers stationed at [[Lochfeld]] under [[Capt. Staro]]. She is 210 years old and stands at 5'8". She has green eyes and black and brown hair. Valyra has a fiercesome wolf companion, [[Bobbert]].  
+Valyra is a Wood [[Elves and Half-Elves]] Ranger. She is a member of the [[Order of Feathers]] rangers stationed at [[Lochfeld]] under [[Capt. Staro]]. She is 210 years old and stands at 5'8". She has green eyes and black and brown hair. Valyra has a fiercesome wolf companion, [[Bobbert]].  
 
 [[Idril]], Valyra and the other rangers waited just outside the [[Bandit Encampment]] while the party found the location of the [[Druidess Goblin]]. 
 

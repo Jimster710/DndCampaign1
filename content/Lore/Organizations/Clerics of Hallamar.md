@@ -14,4 +14,4 @@ The Clerics of Hallamar are in charge of most religious matters in the Kingdom-f
 
 A somewhat niche collection of monster cards has been produced by the Clerics of Hallamar under the pretense of warning the general populace about the dangers of the various creatures that threaten the Kingdom. In reality, this collection of cards has turned into one of the few approved forms of entertainment for the Clerics. 
 
-A game can be played with these cards-unofficially of course. The game has been nicknamed *Relics & Beasts*. 
+A game can be played with these cards-unofficially of course. The game has been nicknamed *Relic: The Gathering. 

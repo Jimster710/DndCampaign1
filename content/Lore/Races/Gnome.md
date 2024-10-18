@@ -6,6 +6,6 @@ Tags:
   - 
 ---
 
+Gnomes are a race characterized best by their inventiveness and cheerful mischief. They have pointed ears, but otherwise resemble short, beardless dwarves. Most gnomes live above ground-like the rock gnomes and forest gnomes of [[Amberridge]] and [[Holden Sylvan]], for example.
 
-[https://www.dndbeyond.com/races/18-gnome](Gnome)
-https://www.dndbeyond.com/races/18-gnome
+The deep gnomes, or Svirfneblin, live underground in [[The Underdark]]. 

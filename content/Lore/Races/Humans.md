@@ -6,6 +6,4 @@ Tags:
   - 
 ---
 
-
-[https://www.dndbeyond.com/races/1-human](Human)
-https://www.dndbeyond.com/races/1-human
+Humans are plentiful in the [[Kingdom of Breitek]] and throughout [[The Continent]]. They can also be found in [[The Far West]].
